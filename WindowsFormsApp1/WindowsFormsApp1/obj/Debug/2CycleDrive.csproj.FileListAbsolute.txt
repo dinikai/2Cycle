@@ -1,0 +1,12 @@
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\2CycleDrive.csproj.AssemblyReference.cache
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\2CycleDrive.csproj.SuggestedBindingRedirects.cache
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TwoCycleDrive.COMForm.resources
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TwoCycleDrive.Form1.resources
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\2CycleDrive.csproj.GenerateResource.cache
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\2CycleDrive.csproj.CoreCompileInputs.cache
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dinikai\Desktop\All\2Cycle\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

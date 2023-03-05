@@ -14,6 +14,7 @@ namespace TwoCycleDrive
     public partial class Form1 : Form
     {
         public float speed, rpm, distance;
+
         private COMForm comForm;
 
         public Form1()
@@ -21,7 +22,7 @@ namespace TwoCycleDrive
             InitializeComponent();
 
             comForm = new COMForm();
-            comForm.ShowDialog();
+            Shown += (sender, e) => comForm.ShowDialog();
 
             SerialSwap.GetInstance().DataReceived += (sender, e) =>
             {
@@ -39,6 +40,11 @@ namespace TwoCycleDrive
                         : "Получен стоп-сигнал\n");
                     consoleBox.AppendText("\t" + Math.Round(rpm, 2).ToString() + " об/мин\n");
                 });
+            };
+
+            connectBtn.Click += (sender, e) =>
+            {
+                comForm.ShowDialog();
             };
         }
     }
